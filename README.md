@@ -26,8 +26,10 @@ This project is a comprehensive Bank Management System featuring an ATM simulati
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/yourusername/bank-management-system.git
+ 
  Navigate to the project directory:
-  cd bank-management-system
+ cd bank-management-system
+
 
 Set up the MySQL database:
 Create a new database and import the SQL schema from db_schema.sql.
